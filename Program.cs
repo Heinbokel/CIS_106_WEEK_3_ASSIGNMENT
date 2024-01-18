@@ -4,6 +4,7 @@ FilmActorService filmActorService = new FilmActorService();
 
 // The following commands should be possible after implementing methods in FilmActorService. 
 // The FilmActorService has two repository classes (like databases). Use them as needed to accomplish the tasks below.
+// Document the FilmActorService including the class documents and all method documents.
 
 // Get list of all actors and write them to the console here (names and ID only, like an actor's snippet).
 
